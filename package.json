@@ -1,7 +1,7 @@
 {
-    "name": "material-electron",
+    "name": "material-electron-demo",
     "version": "1.0.0",
-    "description": "Test App",
+    "description": "Material Style Electron app inspired from amazing codepen http://codepen.io/yusufbkr/",
     "main": "main.js",
     "author": "tHBp",
     "license": "MIT",
@@ -9,6 +9,18 @@
         "start": "electron ."
     },
     "dependencies": {
-        "electron-prebuilt": "*"
-    }
+        "electron": "^1.4.8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tHBp/material-electron-demo.git"
+    },
+    "keywords": [
+        "electron",
+        "material"
+    ],
+    "bugs": {
+        "url": "https://github.com/tHBp/material-electron-demo/issues"
+    },
+    "homepage": "https://github.com/tHBp/material-electron-demo#readme"
 }
