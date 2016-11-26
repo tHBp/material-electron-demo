@@ -1,5 +1,5 @@
 # material-electron-demo
-Material Style Electron app inspired from amazing codepen http://codepen.io/yusufbkr/
+Material Style Electron app inspired from [amazing codepen](http://codepen.io/yusufbkr/pen/RPBQqg) by [Yusuf Bakir](http://codepen.io/yusufbkr/)
 
 A sample app to show beautiful material styled login screen.
 
