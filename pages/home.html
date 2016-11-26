@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="../css/main.css">
+</head>
+<body>
+	<!--<div class="se-pre-con"></div>-->
+    <div data-bind='component:{name: componentName, params:{rootModel: $root}}'></div>
+	<script src="../libs/require/require.js"></script>
+    <script>
+        require(['../config/require-config.js'], function () {
+            require(['../view-models/home']);
+        });
+    </script>
+</body>
+</html>

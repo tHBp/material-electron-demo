@@ -1,0 +1,14 @@
+{
+    "name": "material-electron",
+    "version": "1.0.0",
+    "description": "Test App",
+    "main": "main.js",
+    "author": "tHBp",
+    "license": "MIT",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron-prebuilt": "*"
+    }
+}
